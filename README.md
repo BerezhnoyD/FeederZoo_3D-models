@@ -8,4 +8,4 @@ Contents:
 - FeederZoo models (lots of stuff here)
 - OpenSourceLabEquipment (various models from various places)
 - OpenSourceOpenField
-</img src="OpenSourceOpenField/pictures/OpenField.jpg" width="50%" />
+<img src="OpenSourceOpenField/pictures/OpenField.jpg" width="50%" />
