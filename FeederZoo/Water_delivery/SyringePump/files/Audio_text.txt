@@ -1,0 +1,27 @@
+The purpose of this video is to show one way to calibrate the rotation of the motor with the amount of fluid deposited by the syringe.
+
+The method is to use a 1 milliliter syringe to measure the larger 10 milliliter syringe volume during one rotation of the motor.
+
+The software is modified to turn the motor one turn or 200 steps.
+
+The syringes are partially filled with water, colored in this case, and connected together by a one quarter inch clear vinyl tube.
+
+Try to keep the air bubbles to a minimum while filling the syringes with water.
+
+Install the 10 milliliter syringe in the syringe pump.
+
+Reverse the motor until the syringe just fits. install the syringe clips
+
+Run the pump one turn 
+
+The initial reading will include hysteresis so it will not be used except as a starting point.
+
+Run the pump again and record the new amount indicated on the small syringe.
+
+Continue until the end of the syringe is reached, do not go over 1 milliliter.
+
+Take the differences in the readings, then take an average of the readings.
+
+Repeat this procedure as many times as necessary to feel that you know the amount of fluid from one rotation.
+
+

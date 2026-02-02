@@ -1,0 +1,4 @@
+Motorized add-on for RWD stereotaxic instruments by Remi-Rafael on Thingiverse: https://www.thingiverse.com/thing:7032259
+
+Summary:
+This design is an add on to motorize a RWD stereotaxic manual instrument and drive it with a servomotor. I designed it to allow slow and regular probe insertions.It adapts to the stereotaxic arm, holds with two screws and can be easily removed. The motor can be engaged or disengaged for manual control using a knob. I used 2 servo-tester modules to make a control board. The 3D parts and schematics are included.Different gears are included depending on the reduction ration you need.The servo teste i use can be found here https://www.amazon.com/GoolRC-Tester-Consistency-Helicopter-Airplane/dp/B00LTOD4F4 (and cheaper on aliexpress)

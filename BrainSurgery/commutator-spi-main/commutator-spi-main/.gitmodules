@@ -1,0 +1,3 @@
+[submodule "commutator-controller"]
+	path = commutator-controller
+	url = https://github.com/open-ephys/commutator-controller
